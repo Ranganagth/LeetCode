@@ -3,6 +3,7 @@
 This repository contains solutions to various LeetCode problems. Each problem is solved only in `TypeScript`.
 
 ## Table of Contents
+
 # Blind75
 
 <details>
@@ -84,6 +85,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 
 
 # Daily Challenges
+
 - [165. Compare Version Numbers](./LeetCode%20Backup/Problems/Daily%20Challenges/165.%20Compare%20Version%20Numbers.md)
   
 - [237. Delete Node in a Linked List](./LeetCode%20Backup/Problems/Daily%20Challenges/237.%20Delete%20Node%20in%20a%20Linked%20List.md)
@@ -97,8 +99,8 @@ This repository contains solutions to various LeetCode problems. Each problem is
 - [2441. Largest Positive Integer That Exists With Its Negative](./LeetCode%20Backup/Problems/Daily%20Challenges/2441.%20Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative.md)
 - [2487. Remove Nodes From Linked List](./LeetCode%20Backup/Problems/Daily%20Challenges/2487.%20Remove%20Nodes%20From%20Linked%20List.md)
 - [2816. Double a Number Represented as a Linked List](./LeetCode%20Backup/Problems/Daily%20Challenges/2816.%20Double%20a%20Number%20Represented%20as%20a%20Linked%20List.md)
+- [102. Binary Tree Level Order Traversal](./LeetCode%20Backup/Problems/Daily%20Challenges/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)
 
 <!-- ## Contributing
 
 Contributions are welcome! Feel free to submit a pull request with your solutions to add them to this repository. -->
-
