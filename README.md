@@ -79,6 +79,12 @@ This repository contains solutions to various LeetCode problems. Each problem is
 - [226. Invert Binary Tree](./Problems/Blind%2075/Trees/226.%20Invert%20Binary%20Tree.md)
 - [235. Lowest Common Ancestor of a Binary Search Tree](./Problems/Blind%2075/Trees/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)
 - [572. Subtree of Another Tree](./Problems/Blind%2075/Trees/572.%20Subtree%20of%20Another%20Tree.md)
+- [102. Binary Tree Level Order Traversal](./Problems/Blind%2075/Trees/105.%20Construct%20Binary%20Tree%20Level%20Order%20Traversal.md)
+- [98. Validate Binary Search Tree](./Problems/Blind%2075/Trees/98.%20Validate%20Binary%20Search%Tree.md)
+- [230. Kth Smallest Element in a BST](./Problems/Blind%2075/Trees/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md)
+- [105. Construct Binary Tree from Preorder and Inorder Traversal](./Problems/Blind%2075/Trees/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)
+- [124. Binary Tree Maximum Path Sum](./Problems/Blind%2075/Trees/124.%20.Binary%20Tree%20%Maximum%20%Path%20%Sum.md)
+- [297. Serialize and Deserialize Binary Tree](./Problems/Blind%2075/Trees/297.%20Serialize%20and%20Deserialize%20Binary%20Tree)
 
 
 </details>
@@ -100,6 +106,10 @@ This repository contains solutions to various LeetCode problems. Each problem is
 - [2487. Remove Nodes From Linked List](./Problems/Daily%20Challenges/2487.%20Remove%20Nodes%20From%20Linked%20List.md)
 - [2816. Double a Number Represented as a Linked List](./Problems/Daily%20Challenges/2816.%20Double%20a%20Number%20Represented%20as%20a%20Linked%20List.md)
 - [102. Binary Tree Level Order Traversal](./Problems/Daily%20Challenges/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)
+- [506. Relative Ranks](./Problems/Daily%20Challenges/506.%20Relative%20Ranks.md)
+- 
+
+
 
 <!-- ## Contributing
 
