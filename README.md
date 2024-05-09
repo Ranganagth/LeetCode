@@ -83,8 +83,8 @@ This repository contains solutions to various LeetCode problems. Each problem is
 - [98. Validate Binary Search Tree](./Problems/Blind%2075/Trees/98.%20Validate%20Binary%20Search%Tree.md)
 - [230. Kth Smallest Element in a BST](./Problems/Blind%2075/Trees/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md)
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](./Problems/Blind%2075/Trees/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)
-- [124. Binary Tree Maximum Path Sum](./Problems/Blind%2075/Trees/124.%20.Binary%20Tree%20%Maximum%20%Path%20%Sum.md)
-- [297. Serialize and Deserialize Binary Tree](./Problems/Blind%2075/Trees/297.%20Serialize%20and%20Deserialize%20Binary%20Tree)
+- [124. Binary Tree Maximum Path Sum](./Problems/Blind%2075/Trees/124.%20Binary%20Tree%20%Maximum%20%Path%20%Sum.md)
+- [297. Serialize and Deserialize Binary Tree](./Problems/Blind%2075/Trees/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md)
 
 
 </details>
